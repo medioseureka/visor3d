@@ -16,6 +16,7 @@
 
 ### NOTAS
 
->> El software exporta una carpeta que se llama imagerotator, esta no es necesaria repetirla por cada exportación, dado que esta se maneja de forma global para todos los productos
+>> Esta implementación debe visualizarse dentro de un servidor HTTP debido a CORS
 
->> Esta implementación debe visualizarse dentro de un servidor HTTP debido a problemas de CORS
+>> El software exporta una carpeta que se llama imagerotator, esta no es necesaria repetirla por cada exportación, dado que esta se maneja de forma global para todos los productos (Se puede manejar la que se envía en este repositorio)
+
